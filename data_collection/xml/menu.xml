@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<menu>
+	<breakfast hours="7-11">
+		<item price="$50">cakes</item>
+                <item price="$60">tea</item>
+	</breakfast>
+	<lunch hours="11-3">
+		<item price="$70">hamburger</item>
+	</lunch>
+	<dinner hours="3-10">
+		<item price="$90">fries</item>
+	</dinner>
+</menu>
